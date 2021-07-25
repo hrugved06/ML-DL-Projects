@@ -23,7 +23,7 @@ To get you excited about the article, this is what our final output is going to 
 # Content
 Now, the article is divided into three parts. The first part will briefly explain the fency and let's admit a little bit complex theory of two pre-trained classifiers of OpenCV for face detection, second part which is our favorite coding part! The last part will be the analysis of the results of both algorithms to see which algorithm is fast and which one is more reliable and accurate. So let's hop into it.
 
-## **1.Theory :-**
+## **1. Theory :-**
 
 A computer program that decides whether an image is positive image (face image) or negative image (non-face image) is called a classifier. A classifier is trained on a hundreds of thousands of face and non-face images to learn to classify a new image as face or non-face image correctly. `OpenCV` provides us with two pre-trained (already trained and ready to be used for detection) classifiers:
 
@@ -55,10 +55,12 @@ For each block, LBP looks at 16 pixels (4x4 window) at a time and it is particul
 So after all this theory, I think it might be clear to you which classifier should you use and when. So let's compare them both so that we can make this decision. 
 
 </br> </br>
-
-**So, lets get to the coding part...**
+##  **2. Coding part :**
+**So, lets get to the Coding part...  To get redirected to the coding part [click here!](https://github.com/hrugved06/ML-DL-Projects/blob/master/Face%20detection%20using%20OpenCV/model/Face_Detection.ipynb)**
 
 </br> </br>
+
+## **3. Conclusion :**
 
 So, the final conclusion drawn from the model is as follows :
 
