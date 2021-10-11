@@ -9,6 +9,8 @@ The existing projects are as follows :
 
 - [Barcode Scanner](https://github.com/hrugved06/ML-DL-Projects/tree/master/barcode%20scanner)
 
+- [Thresholding with OpenCV](https://github.com/hrugved06/ML-DL-Projects/tree/main/Thresholding%20with%20open%20CV)
+
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
